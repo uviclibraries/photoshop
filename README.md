@@ -1,4 +1,4 @@
-# Photoshop Workshop...
+# Photoshop Workshop
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/photoshop/
