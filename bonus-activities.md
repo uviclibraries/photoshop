@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bonus Activities
-nav_order: 6
-parent: Workshop Activities
+nav_order: 4
+has_children: true
+has_toc: true
 ---
