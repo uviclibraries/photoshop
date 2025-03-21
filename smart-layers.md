@@ -34,7 +34,7 @@ Next we’ll use Photoshop to work with pre-created templates that use Smart Lay
 <img src="images/4.9.png" style="float:right;width:200px">
  - Optionally, you can create a transparent PNG of just the text effect for adding to other design projects. To do that, first you need to **deselect** the unnecessary layers in the **Layers** window in the main Grand Motel Text Effect file. **Click on the eye icon** <img src="images/4.10.png" style="float:right;width:200px">in the left hand side of each layer to make them invisible (see right). Do this for every layer except the Your Text Here and Effect layers. Once this is done, your image should only show the text and the effect with a checkered grey background to indicate that the background is transparent (see right).
   - Now, click on **File -> Export As**. Under **File Settings** choose **PNG** and make sure **Transparency** is selected. You’ll want this file to be **100%** in size and quality. Save it where you want to access it again.
-  - You can now insert it into your design projects such as posters in Photoshop and InDesign, or in easy to use design tools like Canva.com and it will sit over the background. 
+  - You can now insert it into your design projects such as posters in Photoshop and InDesign, or in easy to use design tools like Canva.com and it will sit over the background.<br> 
 <img src="images/4.11.png" style="width:200px">
 
 You can use these skills for other text effects such as the following:
