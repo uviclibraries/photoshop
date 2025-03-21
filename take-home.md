@@ -6,4 +6,4 @@ parent: Workshop Activities
 ---
 # Photoshop Take Home Sheet
 
-[NEXT STEP: Removing Backgrounds](remove-background.html){: .btn .btn-blue }
+[BONUS: Removing Backgrounds](remove-background.html){: .btn .btn-blue }
