@@ -16,7 +16,12 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 ### Earn an Informal Credential or Badge for Adobe Photoshop
 
 If you’d like to earn a DSC badge for this workshop, please email one of the following to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
-1. **REQUIREMENT**
+1. Cropping and Exporting Photos
+2. Basic Photo Edits
+3. Changing Dimensions
+4. Templates and Smart Layers
+5. Removing Backgrounds
+6. Removing Someone or Something from a Photo
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
