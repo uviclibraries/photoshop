@@ -24,10 +24,10 @@ If you have a graphic or photo and need to get rid of the background and convert
 4. **Method #2: Quick Selection Tool**
   - 4.1 [Download this image for the exercise](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
   - 4.2 Unlock the layer for editing by opening up the **Layers** menu (in the right sidebar or **Window > Layers**). The image layer will be labeled Background with a small lock. **Click on the lock** to unlock the layer. 
-<img src="images/b1.4.png" style="float:right;width:200px" alt="object selection tool"> 
+<img src="images/b1.5.png" style="float:right;width:200px" alt="object selection tool"> 
   - 4.3 In the left toolbar menu, click on the **Quick Selection Tool**. 
   - 4.4 In the top properties menu, make sure **New Selection** is chosen, **click on the little downward arrow** next to the brush size icon (round white icon) to increase the size of the brush to around **100**.
-<img src="images/b1.5.png" style="width:100%" alt="opacity"> 
+<img src="images/b1.7.png" style="width:100%" alt="opacity"> 
 5. While **holding down the left mouse button**, use the selection brush to **draw over the subject** of your image (the person in the photo). Don’t get too close to the edge or the brush may select background areas.
 6. **Release the mouse button** and click on the **Q key** on your keyboard. This will turn all the unselected area red. We will use this red area as a guide to clean up our selection.
 7. Use the **Magnifying Glass** to zoom in closer to the subject so you can see the edges better.
