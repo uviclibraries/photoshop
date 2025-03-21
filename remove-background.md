@@ -11,7 +11,7 @@ If you have a graphic or photo and need to get rid of the background and convert
 1. [Download this image for the exercise](https://pixabay.com/vectors/alarm-time-flat-wake-up-sleep-3122687/){:target="_blank"}
 2. Open the photo in Photoshop by either clicking on the **Open button** or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
 
-**3. Method #1: Magic Eraser Tool**
+3. **Method #1: Magic Eraser Tool**
 
 - 3.1 Unlock the layer for editing by opening up the **Layers** menu (in the right sidebar or **Window > Layers**). The image layer will be labeled **Background** with a small lock. **Click on the lock** to unlock the layer.
 - 3.2 Find the **Magic Eraser Tool**: In the left toolbar menu, **click and hold on the Eraser Tool** icon and a menu containing three eraser tools will pop up. Select **Magic Eraser Tool**.
@@ -20,11 +20,11 @@ If you have a graphic or photo and need to get rid of the background and convert
 - 3.5 Trim away excess space by clicking on **Image > Trim** in the top menu. Make sure **Transparent Pixels** is selected and click **OK**. All unnecessary parts of the image will be cropped out.
 - 3.6 See the Exporting instructions at the end of this activity to save it.
 
-**4. Method #2: Quick Selection Tool**
-- 4.1 [Download this image for the exercise](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
-- 4.2 Unlock the layer for editing by opening up the **Layers** menu (in the right sidebar or **Window > Layers**). The image layer will be labeled Background with a small lock. **Click on the lock** to unlock the layer. 
-- 4.3 In the left toolbar menu, click on the **Quick Selection Tool**. 
-- 4.4 In the top properties menu, make sure **New Selection** is chosen, **click on the little downward arrow** next to the brush size icon (round white icon) to increase the size of the brush to around **100**.
+4. **Method #2: Quick Selection Tool**
+  - 4.1 [Download this image for the exercise](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
+  - 4.2 Unlock the layer for editing by opening up the **Layers** menu (in the right sidebar or **Window > Layers**). The image layer will be labeled Background with a small lock. **Click on the lock** to unlock the layer. 
+  - 4.3 In the left toolbar menu, click on the **Quick Selection Tool**. 
+  - 4.4 In the top properties menu, make sure **New Selection** is chosen, **click on the little downward arrow** next to the brush size icon (round white icon) to increase the size of the brush to around **100**.
 
 5. While **holding down the left mouse button**, use the selection brush to **draw over the subject** of your image (the person in the photo). Don’t get too close to the edge or the brush may select background areas.
 6. **Release the mouse button** and click on the **Q key** on your keyboard. This will turn all the unselected area red. We will use this red area as a guide to clean up our selection.
