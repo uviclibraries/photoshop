@@ -30,8 +30,8 @@ Next we’ll use Photoshop to work with pre-created templates that use Smart Lay
 
 
 You can use these skills for other text effects such as the following:
-[Vintage-text-effect 1](https://www.graphicsfuel.com/2019/10/vintage-text-effect/){:target="_blank"}
-[Retro Text Effect 2](https://www.graphicsfuel.com/2018/07/80s-retro-text-effect/){:target="_blank"}
+- [Vintage-text-effect 1](https://www.graphicsfuel.com/2019/10/vintage-text-effect/){:target="_blank"}
+- [Retro Text Effect 2](https://www.graphicsfuel.com/2018/07/80s-retro-text-effect/){:target="_blank"}
 Or for 
 - [mockups like this](https://www.graphicsfuel.com/2018/04/letter-quotes-board-mockup/){:target="_blank"}
 
