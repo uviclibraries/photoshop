@@ -20,7 +20,7 @@ If you have a graphic or photo and need to get rid of the background and convert
     - See the Exporting instructions at the end of this activity to save it.
 
 **4. Method #2: Quick Selection Tool**
-    - Download this image for the exercise](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
+    - [Download this image for the exercise](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
     - Unlock the layer for editing by opening up the **Layers** menu (in the right sidebar or **Window > Layers**). The image layer will be labeled Background with a small lock. **Click on the lock** to unlock the layer. 
     - In the left toolbar menu, click on the **Quick Selection Tool**. 
     - In the top properties menu, make sure **New Selection** is chosen, **click on the little downward arrow** next to the brush size icon (round white icon) to increase the size of the brush to around **100**.
