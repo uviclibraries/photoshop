@@ -26,8 +26,8 @@ Let’s move on using Photoshop and do some basic edits to a photo. If you have 
   - In the Properties for the Black & White adjustment layer, there is a series of sliders that enable you to adjust the brightness for each of the tones in the image individually, giving you greater control. Try dragging some of them to see what happens.
   - Next, Click on **Layer** in the top main menu (see right), then **New Adjustment Layer**, and then **Curves**. A small window will pop up. Click **OK**.
 Go into the **Curves** layer properties. Click on the diagonal line in three places to **create three evenly spaced round handles** (see first image to the right). Once the handles are there, you can grab them with your mouse and **drag them up or down** to make adjustments in your photo. The wave form in the back shows the lights and darks in your image. To the left of the waveform are the darks and the right side displays the lights. In the example screenshot, the diagonal Curve line has been dragged to give an upwards bump to the brights and a downwards bump to the darks, which is a way to slightly increase the contrast of the image, if needed.<br> 
-<img src="images/basics2.4.png" style="width:200px" alt="curves layer"><br>
-<img src="images/basics2.5.png" style="width:200px" alt="curves round handles"><br>
+<img src="images/basics2.4.png" style="width:200px" alt="curves layer">
+<img src="images/basics2.5.png" style="float:right;width:200px" alt="curves round handles"><br>
 
 5. **Save**: <img src="images/basics2.6.png" style="float:right;width:100%">  
   - Whenever you see the asterisk to the right of the file name up in the upper left corner of the screen, this is an indication that you’ve made a change to your file and have not saved it.
