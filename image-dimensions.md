@@ -10,6 +10,7 @@ In this activity we are going to change the aspect ratio of an image without cro
 
 1. [Download this image for the exercise](https://pixabay.com/illustrations/ice-cream-drawing-pencil-759591/){:target="_blank"}
 2. Open the photo in Photoshop by either clicking on the **Open button** or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder. 
+<img src="images/crop1.5.png" style="float:right;width:180px" alt="duplicate button">
 3. **Duplicate**:
   - We are first going to make a copy of this image before we edit it so that we keep a copy of our original. To do this, click on Image in the top menu and then click on Duplicate. This will bring up a small window with the option to give the new copy a new name. It will save it to the same folder where the original is saved. Don’t worry about adding .jpg to the end of the file as this will be added for you. You will now see above your image that you have two tabs open in Photoshop with the names of the two files. Make sure you are working in the one you plan to edit. You can close the original to avoid confusion.
 4. **Changing Canvas Size**: 
