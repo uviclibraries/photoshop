@@ -28,8 +28,8 @@ If you have a graphic or photo and need to get rid of the background and convert
   - 4.3 In the left toolbar menu, click on the **Quick Selection Tool**. 
   - 4.4 In the top properties menu, make sure **New Selection** is chosen, **click on the little downward arrow** next to the brush size icon (round white icon) to increase the size of the brush to around **100**.<br>
 <img src="images/b1.7.png" style="width:100%" alt="opacity"><br>
-5. While **holding down the left mouse button**, use the selection brush to **draw over the subject** of your image (the person in the photo).<img src="images/b1.8.png" style="float:right;width:200px" alt="image">  Don’t get too close to the edge or the brush may select background areas.
-6. **Release the mouse button** and click on the **Q key** on your keyboard. This will turn all the unselected area red. We will use this red area as a guide to clean up our selection.<img src="images/b1.9.png" style="float:right;width:200px" alt="brush tool"> 
+5. While **holding down the left mouse button**, use the selection brush to **draw over the subject** of your image (the person in the photo).<img src="images/b1.8.png" style="float:right;width:150px" alt="image">  Don’t get too close to the edge or the brush may select background areas.
+6. **Release the mouse button** and click on the **Q key** on your keyboard. This will turn all the unselected area red. We will use this red area as a guide to clean up our selection.<img src="images/b1.9.png" style="float:right;width:180px" alt="brush tool"> 
 7. Use the **Magnifying Glass** to zoom in closer to the subject so you can see the edges better.
 8. Click on the **Brush Tool** in the left menu. Change the brush size to a comfortable size to work with (in this case, 50px should be a good size).
 9. <img src="images/b1.10.png" style="float:right;width:200px" alt="white brush dots">  With the brush, use **White** to select more of the subject (erase the red) and use **Black** to deselect areas of the background that were selected (add red). To change the colour of the **Brush** tool, use the colour selector at the bottom of the left toolbar menu (the larger square sitting in front of another square is the brush colour. You can click on the tiny black and white icon above it to change the colour swatches to black and white. You can click on the tiny double arrow to switch back and forth between black and white.<img src="images/b1.6.png" style="float:right;width:200px" alt="brush">
@@ -39,8 +39,8 @@ If you have a graphic or photo and need to get rid of the background and convert
 13. Trim away excess space by clicking on **Image > Trim** in the top menu. Make sure **Transparent Pixels** is selected and **click OK**. All unnecessary parts of the image will be cropped out.
 
 14. **Export as a PNG:**
-Note: As the goal for these images is to be placed in another project, it’s best to export at full resolution. 
-<img src="images/b1.11.png" style="width:200px" alt="end product">
+Note: As the goal for these images is to be placed in another project, it’s best to export at full resolution.<br>
+<img src="images/b1.11.png" style="width:200px" alt="end product"><br>
 To export your image, click on **File -> Export > Export As** in the upper left corner. A window will pop up with options for resizing. Leave image size and quality at 100%,  but make sure the **Format** is set to **PNG** in the dropdown in the upper right corner of the Export window and the Transparency box is checked.. Click the **Export All** button in the bottom corner when ready. Another small window will pop up giving you an option to choose a save location. Choose a place on your computer to save the file and click **Save**.
 
 
