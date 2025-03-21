@@ -18,7 +18,7 @@ If you have a graphic or photo and need to get rid of the background and convert
 - 3.3 In the top properties menu, set the **Tolerance to 30**, make sure **Anti-alias** is checked and **Opacity** is set to **100%**.
 - 3.4 Click on the background and all the touching areas in that colour will disappear, replaced with a grey and white checked background (indicating a transparent area). Click on all the areas of the background in different colour ranges until the only parts of the graphic left are what you want to keep.
 - 3.5 Trim away excess space by clicking on **Image > Trim** in the top menu. Make sure **Transparent Pixels** is selected and click **OK**. All unnecessary parts of the image will be cropped out.
-- 3.5 See the Exporting instructions at the end of this activity to save it.
+- 3.6 See the Exporting instructions at the end of this activity to save it.
 
 **4. Method #2: Quick Selection Tool**
 - 4.1 [Download this image for the exercise](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
