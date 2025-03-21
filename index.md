@@ -5,23 +5,11 @@ nav_order: 1
 ---
 <img src="images/ps-logo.png" style="float:right;width:180px;" alt="photoshop logo">
 
-# Photoshop for Beginners
+# Photoshop for Beginners, why Adobe Photoshop?
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[Adobe Photoshop](https://www.adobe.com/ca/products/photoshop/landpa.html?gclid=CjwKCAjwnPS-BhBxEiwAZjMF0uuZr0VXnXDk-p__8gTpLPwERS63kFbn0uXflXCWH0cgUipKBhEKThoC8-UQAvD_BwE&sdid=NC5FRF5H&mv=search&mv2=paidsearch&ef_id=CjwKCAjwnPS-BhBxEiwAZjMF0uuZr0VXnXDk-p__8gTpLPwERS63kFbn0uXflXCWH0cgUipKBhEKThoC8-UQAvD_BwE:G:s&s_kwcid=AL!3085!3!714745360754!e!!g!!photoshop!20219514620!149761557796&gad_source=1){:target="_blank"} is a professional photo editing and graphic design software used for creating, enhancing, and manipulating digital images. It offers powerful tools for photo retouching, color correction, and creating digital art. Key features include layer-based editing, advanced selection tools, and non-destructive adjustments. Photoshop is widely used for tasks like photo restoration, image compositing, logo design, digital painting, and graphic creation. It also integrates seamlessly with other Adobe Creative Cloud applications, making it a central tool for photographers, designers, and artists working on various creative projects across multiple industries 
 
-## Why Photoshop? 
-
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
-
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives 
 
 At the end of this workshop, you will be able to:
 
