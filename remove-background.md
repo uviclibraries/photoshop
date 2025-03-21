@@ -2,6 +2,6 @@
 layout: default
 title: Remove Background
 nav_order: 2
-parent: Bonus activities
+parent: bonus activities
 ---
 # Bonus Activity: Remove Background
