@@ -6,7 +6,8 @@ parent: Workshop Activities
 ---
 # Photoshop for Beginners Activity #1: Cropping and Saving Photos for Online Use
 Let’s start with using Photoshop to crop and export a smaller version of a photo. If you have any questions, please ask!
-
+<img src="images/crop1.1.png" style="float:right;width:180px" alt="open button"> 
+<img src="images/crop1.2.png" style="float:right;width:180px" alt="green free download button"> 
 1. Go to [PEXELS](https://www.pexels.com){:target="_blank"} and choose a photo to download. Click on the downward arrow icon on the image thumbnail, or if viewing the full image there will be a green Free Download button you can click on.
 2. Open the photo in Photoshop by either clicking on the **Open button** or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your **Downloads** folder.
 3. We are first going to make a copy of this image before we edit it so that we keep a full size copy of our original. To do this, click on Image in the top menu and then click on Duplicate. This will bring up a small window with the option to give the new copy a new name. It will save it to the same folder where the original is saved. Don’t worry about adding .jpg to the end of the file as this will be added for you. You will now see above your image that you have two tabs open in Photoshop with the names of the two files. Make sure you are working in the one you plan to resize. It’s best to  close the original to avoid confusion by clicking on the little  “x” next to the filename.
