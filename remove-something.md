@@ -31,6 +31,12 @@ In a previous activity, we did a simple removal of simple, tiny objects but this
 11. **Click on the Clone Stamp tool** in the left toolbar menu. In the upper tool options menu you can **click on the dropdown arrow next to the white dot** to bring up Size and Hardness options. For this example, setting the size close to 100px and the Hardness to around 65% should be good.
 <img src="images/b2.13.png" style="float:right;width:200px" alt="size and hardness">
 12. To use the Clone Stamp tool, make sure your editing layer is selected and visible. Find a patch of the image you want to use to stamp over the unsuitable part, and, **while holding down the Alt key, click on it with your mouse**. This marks that part of the image as the part to be cloned. Next **click on the part you want to cover up**. (In the example to the right, a section of the rock was cloned and is now inside the Clone Stamp tool, hovering over a section of the grass, ready to be stamped.) Once you stamp it, the stamp tool will not simply stamp the same object again, but build out from the same spot. What you’ll want to be careful about is avoiding repeating patterns (e.g., a bunch of the same flower stamped over and over in the same area). You can zoom out and select a sample from a somewhat neutral area with similar lighting from the same plane of focus and then zoom back in to stamp in the area you want to cover up. This process takes much time and practice to get a natural look. You are essentially painting in replacement grass and flowers using samples from other parts of the image.
+
+   <button onclick="toggle('gif2')">Show/Hide Animation</button>
+   <div id="gif2">
+   <img src="images/gif2.gif">
+   </div>
+   
 13. When you practice with other images, you may find you need to use different settings with the Clone Stamp to achieve better results. Feel free to experiment and remember that making lots of mistakes is part of the learning process. The more advanced levels of this type of work is something that people generally pay professionals to do and can take a very long time to master. Step 15 has some links to more images to practice with.
 <img src="images/b2.14.png" style="width:300px">
 14. Examples of images that would be difficult to remove the person from and the reasons why:
@@ -41,5 +47,18 @@ In a previous activity, we did a simple removal of simple, tiny objects but this
     - [Image 1](https://www.pexels.com/photo/landscape-mountains-nature-sky-104347/){:target="_blank"} This one has a sign instead of a person
     - [Image 2](https://www.pexels.com/photo/person-in-blue-jacket-and-black-pants-standing-on-rock-near-waterfalls-3608618/)
     - [Image 3](https://www.pexels.com/photo/man-wearing-red-jacket-doing-peace-sign-3225529/){:target="_blank"}
+
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
