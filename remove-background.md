@@ -40,7 +40,7 @@ If you have a graphic or photo and need to get rid of the background and convert
 
 14. **Export as a PNG:**
 Note: As the goal for these images is to be placed in another project, it’s best to export at full resolution.<br>
-<img src="images/b1.11.png" style="width:200px" alt="end product"><br>
+<img src="images/b1.11.png" style="width:400px" alt="end product"><br>
 To export your image, click on **File -> Export > Export As** in the upper left corner. A window will pop up with options for resizing. Leave image size and quality at 100%,  but make sure the **Format** is set to **PNG** in the dropdown in the upper right corner of the Export window and the Transparency box is checked.. Click the **Export All** button in the bottom corner when ready. Another small window will pop up giving you an option to choose a save location. Choose a place on your computer to save the file and click **Save**.
 
 
