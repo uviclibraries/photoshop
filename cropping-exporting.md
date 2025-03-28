@@ -19,8 +19,8 @@ Let’s start with using Photoshop to crop and export a smaller version of a pho
   - Click on the **Crop tool** in the left toolbar (see right to see which other tools are in that group that might be on top). A crop window with a grid will appear over the photo and the crop options will show across the top of the software.
 <img src="images/crop1.9.png" style="float:right;width:180px" alt="5 by 7 photo ratio"> 
   - Clicking on the **Ratio dropdown** menu at the top, you can choose a specific aspect ratio to lock the crop, or you can leave it clear to freehand it. **Select 5 : 7**, the aspect ratio you would want if you were printing a 5x7 photo. Alternatively, you can choose a specific number of pixels or inches by selecting **W x H x Resolution** and typing in what you want: e.g.,  700 px by 460 px or 4 in by 6 in. (Tip: a 16 : 9 ratio is the common ratio for slide presentations and wide screen TVs.)
-  - You can use the mouse to drag the crop window up and down to reposition it and drag the corners to resize the crop. The darker areas outside the window will be cropped out. When satisfied, **click on the check mark** in the top middle of the screen.<br>
-<img src="images/crop11.png" style="width:200px" alt="check mark"><br>
+  - You can use the mouse to drag the crop window up and down to reposition it and drag the corners to resize the crop. The darker areas outside the window will be cropped out. When satisfied, **click on the done button** in the top middle of the screen.<br>
+
   - Click on **File -> Save** to save your recent changes.<br>
 <img src="images/crop12.png" style="width:100%" alt="check mark"><br>
 
