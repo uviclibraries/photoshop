@@ -18,12 +18,11 @@ Let’s move on using Photoshop and do some basic edits to a photo. If you have 
 <img src="images/crop1.7.png" style="width:100%" alt="duplicate options"><br>
 
 4. **Converting to Black and White:**
-<img src="images/basics2.1.png" style="float:right;width:200px" alt="New adjustement layer button"> 
+<img src="images/basics2.1.png" style="float:right;width:180px" alt="New adjustement layer button"> 
   - Click on **Layer** in the top menu (see right), then **New Adjustment Layer**, and then **Black & White**. A small window will pop up. Click **OK**.
 
   - A new layer called Black & White 1 will appear in your Layers window on the right. It will sit above your Background layer (original image). <img src="images/basics2.2.png" style="float:right;width:200px" alt="Black and white layer"> Double click on the little two-tone rectangle in the left side of the Black & White layer: This will bring up the Properties of that layer. Note: if you click on different parts of the layer, it will bring up different menus to edit for that layer. If your Layers window disappears, you can find it again by going to Window in the very top menu.
-<img src="images/basics2.3.png" style="float:right;width:200px" alt="Adjust brightness"> 
-  - In the Properties for the Black & White adjustment layer, there is a series of sliders that enable you to adjust the brightness for each of the tones in the image individually, giving you greater control. Try dragging some of them to see what happens.
+  - In the Properties for the Black & White adjustment layer, there is a series of sliders that enable you to adjust the brightness for each of the tones in the image individually, giving you greater control. Try dragging some of them to see what happens.<img src="images/basics2.3.png" style="float:right;width:200px" alt="Adjust brightness"> 
   - Next, Click on **Layer** in the top main menu (see right), then **New Adjustment Layer**, and then **Curves**. A small window will pop up. Click **OK**.
 Go into the **Curves** layer properties. Click on the diagonal line in three places to **create three evenly spaced round handles** (see first image to the right). Once the handles are there, you can grab them with your mouse and **drag them up or down** to make adjustments in your photo. The wave form in the back shows the lights and darks in your image. To the left of the waveform are the darks and the right side displays the lights. In the example screenshot, the diagonal Curve line has been dragged to give an upwards bump to the brights and a downwards bump to the darks, which is a way to slightly increase the contrast of the image, if needed.<br> 
 <img src="images/basics2.4.png" style="width:200px" alt="curves layer">
