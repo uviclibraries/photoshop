@@ -31,6 +31,10 @@ Go into the **Curves** layer properties. Click on the diagonal line in three pla
 <img src="images/basics2.4.png" style="width:200px" alt="curves layer">
 <img src="images/basics2.5.png" style="float:right;width:200px" alt="curves round handles"><br>
 
+   <button onclick="toggle('gif2')">Show/Hide Animation</button>
+   <div id="gif2">
+   <img src="images/basic2.gif">
+   </div>
 5. **Save**: <img src="images/basics2.6.png" style="float:right;width:100%">  
   - Whenever you see the asterisk to the right of the file name up in the upper left corner of the screen, this is an indication that you’ve made a change to your file and have not saved it.
 <img src="images/basics2.7.png" style="float:right;width:200px" alt="file name window"> 
