@@ -21,6 +21,11 @@ Let’s start with using Photoshop to crop and export a smaller version of a pho
   - Clicking on the **Ratio dropdown** menu at the top, you can choose a specific aspect ratio to lock the crop, or you can leave it clear to freehand it. **Select 5 : 7**, the aspect ratio you would want if you were printing a 5x7 photo. Alternatively, you can choose a specific number of pixels or inches by selecting **W x H x Resolution** and typing in what you want: e.g.,  700 px by 460 px or 4 in by 6 in. (Tip: a 16 : 9 ratio is the common ratio for slide presentations and wide screen TVs.)
   - You can use the mouse to drag the crop window up and down to reposition it and drag the corners to resize the crop. The darker areas outside the window will be cropped out. When satisfied, **click on the done button** in the top middle of the screen.<br>
 
+   <button onclick="toggle('gif1')">Show/Hide Animation</button>
+   <div id="gif1">
+   <img src="images/crop1.gif">
+   </div>
+
   - Click on **File -> Save** to save your recent changes.<br>
 <img src="images/crop12.png" style="width:100%" alt="check mark"><br>
 
@@ -29,5 +34,16 @@ Let’s start with using Photoshop to crop and export a smaller version of a pho
  <img src="images/crop13.png" style="float:right;width:200px" alt="file settings"> 
   - To export this as a small file for web use, go through the same process as step A, but lower the pixels or scale and quality. On the right hand side, under File Settings, you can choose to decrease the number of pixels (Width and Height) or Scale. Notice that once you start making changes to any of those settings, it automatically adjusts the others to reflect the changes you’ve made. For this example, you can set either the Height or Width to 1000 pixels.<img src="images/crop14.png" style="float:right;width:200px" alt="ratio 1000"> On the left hand side you will see your file size change as you make changes. When you are finished, you will have the following files: the original unedited photo, a high quality print-size PNG, and a small web-size PNG.
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Basic Photo Edits](basic-edits.html){: .btn .btn-blue }
