@@ -50,6 +50,12 @@ Go into the **Curves** layer properties. Click on the diagonal line in three pla
   - You might find it helpful to zoom in before healing. To zoom in to an area in your photo, **click on the Zoom button** (magnifying glass icon) at the bottom of the left toolbar and then click in the area you want to zoom. If you want to adjust where the image is sitting, you can **click on the Hand tool** (hand icon) right above the Zoom tool. If you’ve zoomed in too far, you can click on the **Zoom Out** button at the top left of the screen which will turn your Zoom tool into a Zoom Out tool and you can click on your image to zoom out. Once the image is in a comfortable position, you will need to **click back on the Spot Healing Brush tool again**. Use your left mouse button to **draw over the screw**. Go ahead and clean up the blemish right above it too. See to the right for a before and after.  Optionally, use the Spot Healing Brush to remove the screw at the base of the pole.<br>
 <img src="images/basics10.png" style="width:180px" alt="screw"> <img src="images/basics11.png" style="float:right;width:180px" alt="screw removal"><br>  
   - Use the **Zoom tool** to zoom back out to see the whole photo. 
+
+   <button onclick="toggle('gif3')">Show/Hide Animation</button>
+   <div id="gif3">
+   <img src="images/heal-tool.gif">
+   </div>
+
 Click on **File -> Save** to save your recent changes.
 7. **Exporting**:
   - To export this to a full size PNG file, click on **File -> Export As** in the upper left corner. A window will pop up with options for resizing. Leave image size and quality at 100%,  but make sure the **Format** is set to **PNG** in the dropdown in the upper right corner of the Export window. Click the **Export All** button in the bottom corner when ready. Another small window will pop up giving you an option to choose a save location. Choose a place on your computer to save the file and click Save.
